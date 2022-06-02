@@ -1,0 +1,30 @@
+.container-home{
+    color: rgb(3, 37, 10);
+    height: calc(100vh - 130px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(160, 223, 165);
+}
+
+.container-home div{
+    max-width: 500px;
+
+}
+
+.container-home div{
+    max-width: 500px;
+}
+
+.container-home div h1{
+    margin: 20px 20px;
+    align-items: center;
+    
+}
+
+.container-home div p{
+    margin: 20px 20px;
+    max-width: 70%;
+    line-height: 2;
+    font-size:large;
+}

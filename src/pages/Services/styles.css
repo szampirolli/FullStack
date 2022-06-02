@@ -1,0 +1,21 @@
+
+
+.container-service img {
+    max-width: 250px;
+}
+
+.container-service{
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(160, 223, 165);
+    margin: 10px 10px;
+}
+
+.video-prop{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50PX 0;
+}
